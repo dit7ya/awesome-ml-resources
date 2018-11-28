@@ -1,0 +1,5 @@
+This is a work in progress link collection for all the Machine Learning resources I find useful. It will mostly focus on review materials and cheatsheets, rather than full-fledged courses and books. The goal is to gather all interesting fresh content that are spread all over the web but doesn't appear on any traditional sources.
+
+- [[https://github.com/afshinea/stanford-cs-229-machine-learning][Stanford CS 229 Machine Learning Cheatsheets]] star:
+- [[https://github.com/afshinea/stanford-cs-230-deep-learning][Stanford CS 230 Convolutional Neural Networks Cheatsheets]] star:
+- [[https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/][Notes on Various AI Topics]]
